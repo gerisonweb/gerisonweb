@@ -1,0 +1,86 @@
+{
+  "id": "617697bd7c1006003da17544",
+  "name": "Slideshow",
+  "language": {
+    "id": "614452b0394878004bd95336",
+    "code": "hu",
+    "englishName": "Magyar",
+    "hungarianName": "Magyar"
+  },
+  "items": [
+    {
+      "id": "617a74518960c3003e3252ed",
+      "name": "M1 Autópálya teherforgalommal",
+      "order": 0,
+      "targetUrl": null,
+      "lead": null,
+      "media": {
+        "name": "autopalya_M1_UD_IMG_7038.jpg",
+        "slug": "m1-autopalya-teherforgalommal",
+        "ext": ".jpg",
+        "alternativeText": "M1 Autópálya teherforgalommal",
+        "caption": "M1 Autópálya teherforgalommal",
+        "hash": "autopalya_M1_UD_IMG_7038_jpg_2d2c40659c",
+        "mime": "image/jpeg",
+        "size": 544.5419921875,
+        "url": "/api/uploads/autopalya_M1_UD_IMG_7038_jpg_2d2c40659c.jpg",
+        "validFrom": "2021-10-01T09:57:06.000Z",
+        "validTo": null,
+        "thumbnails": {
+          "square": [
+            "/uploads/256x256-autopalya_M1_UD_IMG_7038_jpg_2d2c40659c.jpg",
+            "/uploads/512x512-autopalya_M1_UD_IMG_7038_jpg_2d2c40659c.jpg",
+            "/uploads/1024x1024-autopalya_M1_UD_IMG_7038_jpg_2d2c40659c.jpg"
+          ],
+          "landscape": [
+            "/uploads/288x162-autopalya_M1_UD_IMG_7038_jpg_2d2c40659c.jpg",
+            "/uploads/512x288-autopalya_M1_UD_IMG_7038_jpg_2d2c40659c.jpg",
+            "/uploads/1280x720-autopalya_M1_UD_IMG_7038_jpg_2d2c40659c.jpg"
+          ],
+          "portrait": [
+            "/uploads/162x288-autopalya_M1_UD_IMG_7038_jpg_2d2c40659c.jpg",
+            "/uploads/288x512-autopalya_M1_UD_IMG_7038_jpg_2d2c40659c.jpg",
+            "/uploads/720x1280-autopalya_M1_UD_IMG_7038_jpg_2d2c40659c.jpg"
+          ]
+        }
+      }
+    },
+    {
+      "id": "617a74518960c3003e3252ee",
+      "name": "M6 Autópálya alagutakkal",
+      "order": 1,
+      "targetUrl": null,
+      "lead": null,
+      "media": {
+        "name": "autopalya_M6_IMG_8201.jpg",
+        "slug": "m6-autopalya-alagutakkal",
+        "ext": ".jpg",
+        "alternativeText": "M6 Autópálya alagutakkal",
+        "caption": "M6 Autópálya alagutakkal",
+        "hash": "autopalya_M6_IMG_8201_jpg_43d9c37f66",
+        "mime": "image/jpeg",
+        "size": 701.619140625,
+        "url": "/api/uploads/autopalya_M6_IMG_8201_jpg_43d9c37f66.jpg",
+        "validFrom": "2021-10-01T09:58:24.000Z",
+        "validTo": null,
+        "thumbnails": {
+          "square": [
+            "/uploads/256x256-autopalya_M6_IMG_8201_jpg_43d9c37f66.jpg",
+            "/uploads/512x512-autopalya_M6_IMG_8201_jpg_43d9c37f66.jpg",
+            "/uploads/1024x1024-autopalya_M6_IMG_8201_jpg_43d9c37f66.jpg"
+          ],
+          "landscape": [
+            "/uploads/288x162-autopalya_M6_IMG_8201_jpg_43d9c37f66.jpg",
+            "/uploads/512x288-autopalya_M6_IMG_8201_jpg_43d9c37f66.jpg",
+            "/uploads/1280x720-autopalya_M6_IMG_8201_jpg_43d9c37f66.jpg"
+          ],
+          "portrait": [
+            "/uploads/162x288-autopalya_M6_IMG_8201_jpg_43d9c37f66.jpg",
+            "/uploads/288x512-autopalya_M6_IMG_8201_jpg_43d9c37f66.jpg",
+            "/uploads/720x1280-autopalya_M6_IMG_8201_jpg_43d9c37f66.jpg"
+          ]
+        }
+      }
+    }
+  ]
+}
